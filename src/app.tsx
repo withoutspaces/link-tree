@@ -31,7 +31,7 @@ function App() {
           <Links 
             icon='fa-whatsapp' 
             text='Agende seu horário pelo whatsapp!' 
-            link='tel:+5582999419577'
+            link='https://wa.me/5582999419577?text=Ol%C3%A1,%20gostaria%20de%20agendar%20um%20hor%C3%A1rio'
           />
           <Links 
             icon='fa-instagram' 
